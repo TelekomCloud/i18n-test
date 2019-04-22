@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Frank Kloeker
+# This file is distributed under the same license as the Docs as Code package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Docs as Code \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-22 03:49+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/intro.rst:3
+msgid "Intro"
+msgstr ""
+
+#: ../../source/intro.rst:5
+msgid "Here is a solution described as :ref:`Sphinx <sphinx:examples>` how to reach a multi-language documentation service."
+msgstr ""
+
+#: ../../source/intro.rst:9
+msgid "Why Sphinx?"
+msgstr ""
+
+#: ../../source/intro.rst:10
+msgid "Sphinx is used to document :ref:`Python <python:functions>`. Documentation strings from Python modules are fetched and Sphinx will generate documentation from that."
+msgstr ""
+
+#: ../../source/intro.rst:15
+msgid "Output"
+msgstr ""
+
+#: ../../source/intro.rst:16
+msgid "For the output there are different :ref:`Builders <sphinx:builders>`. You can choose between single- or multi-page HTML, TXT, PDF, or ePub. There are also other output formats like JSON, XML, or man-pages. With `hieroglyph <http://docs.hieroglyph.io>`__ you can also generate slides. The builder will also make syntax- and link checks for the documents."
+msgstr ""
+
+#: ../../source/intro.rst:24
+msgid "Input"
+msgstr ""
+
+#: ../../source/intro.rst:25
+msgid "The documents are written in :ref:`restructuredtext <sphinx:rst-primer>`"
+msgstr ""
+
+#: ../../source/intro.rst:27
+msgid "The syntax is pretty easy, i.e. :ref:`print tables <sphinx:rst-tables>`. Or print code:"
+msgstr ""
+
+#: ../../source/intro.rst:34
+msgid "Or  :download:`download the document <intro.rst>`."
+msgstr ""
+
+#: ../../source/intro.rst:36
+msgid ":ref:`Markdown <sphinx:markdown>` is also supported as source."
+msgstr ""
+
+#: ../../source/intro.rst:39
+msgid "Templating"
+msgstr ""
+
+#: ../../source/intro.rst:40
+msgid "Other things in Sphinx are :ref:`templating <sphinx:templating>`. Default template engine is `Jinja <http://jinja.pocoo.org/>`__. You can use variables in loops to work with data from json files or others."
+msgstr ""
+
+#: ../../source/intro.rst:45
+msgid "Themes"
+msgstr ""
+
+#: ../../source/intro.rst:46
+msgid "Last but not least to highlight are :ref:`Themes <sphinx:builtin-themes>`. There are some themes included in Sphinx and the standard theme has multiple options to configure. But you can also build yuur own theme, or  `look what Python Packages are available for Sphinx Theme <https://pypi.python.org/pypi?%3Aaction=search&term=Sphinx+Theme&submit=search>`__"
+msgstr ""
+
+#: ../../source/intro.rst:52
+msgid "Search Engine"
+msgstr ""
+
+#: ../../source/intro.rst:53
+msgid ":ref:`A search engine <sphinx:search>` is included."
+msgstr ""
+
+#: ../../source/intro.rst:56
+msgid "Not enough?"
+msgstr ""
+
+#: ../../source/intro.rst:57
+msgid "And mark a timestamp without and script language"
+msgstr ""
+
+#: ../../source/intro.rst:59
+msgid "|today|"
+msgstr ""
+
+#: ../../source/intro.rst:62
+msgid "And who is using Sphinx?"
+msgstr ""
+
+#: ../../source/intro.rst:64
+msgid "`Ansible Doc <http://docs.ansible.com/>`__"
+msgstr ""
+
+#: ../../source/intro.rst:65
+msgid "`OpenStack Doc <https://docs.openstack.org>`__"
+msgstr ""
+
+#: ../../source/intro.rst:67
+msgid "others:"
+msgstr ""
+

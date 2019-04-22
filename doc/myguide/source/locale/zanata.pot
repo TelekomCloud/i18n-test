@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Frank Kloeker
+# This file is distributed under the same license as the Docs as Code package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Docs as Code \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-22 03:49+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/zanata.rst:5
+msgid "Zanata"
+msgstr ""
+
+#: ../../source/zanata.rst:10
+msgid "Translate the world"
+msgstr ""
+
+#: ../../source/zanata.rst:12
+msgid "or: How to build your own infrastructure for multi-language documentation."
+msgstr ""
+
+#: ../../source/zanata.rst:15
+msgid "Imagine there are about 194 countries on the world, most of them with one or more then one language. And countless dialects, like Saxon. How you want to reach all your customer if your products or services are only described in ONE language?"
+msgstr ""
+
+#: ../../source/zanata.rst:20
+msgid "`Zanata <http://zanata.org>`__ is a web-based translation platform for translators, content creators and developers to manage localization projects. Zanata is Open Source. The Installation is divided in server and client."
+msgstr ""
+
+#: ../../source/zanata.rst:26
+msgid "Server"
+msgstr ""
+
+#: ../../source/zanata.rst:28
+msgid "Zanata requires Java, Apache, Wildfly, MySQL, and an e-mail service. For easy installation we use Puppet, specially `puppet-zanata <https://github.com/openstack-infra/puppet-zanata>`__ All installation steps are done by **root**"
+msgstr ""
+
+#: ../../source/zanata.rst:32
+msgid "Install deb packages::"
+msgstr ""
+
+#: ../../source/zanata.rst:38
+msgid "Clone Git repositories::"
+msgstr ""
+
+#: ../../source/zanata.rst:53
+msgid "Create MySQL client file::"
+msgstr ""
+
+#: ../../source/zanata.rst:62
+msgid "Create Puppet manifest::"
+msgstr ""
+
+#: ../../source/zanata.rst:139
+msgid "Execute the manifest::"
+msgstr ""
+
+#: ../../source/zanata.rst:143
+msgid "Check on the web browser if Zanata server is running. Depends on the `filesystem <https://docs.jboss.org/author/display/WFLY10/AIO+-+NIO+for+messaging+journal>`__ , it's required to configure JBoss::"
+msgstr ""
+
+#: ../../source/zanata.rst:154
+msgid "With Puppet the configured admin user is **admin**. That means, if you start the register process, go through the OpenID login process, you should use the username **admin** to get admin privileges for your account. After login generate your API key in User Settings->Client in your profile. The API key is for authorization on the server::"
+msgstr ""
+
+#: ../../source/zanata.rst:169
+msgid "Now you may setup a new project in Zanata and add languages to the project. Of course, you should join a language team. Here are some screenshots from what do you can expect:"
+msgstr ""
+
+#: ../../source/zanata.rst:173
+msgid "New project:"
+msgstr ""
+
+#: ../../source/zanata.rst:177
+msgid "New version:"
+msgstr ""
+
+#: ../../source/zanata.rst:181
+msgid "Configure gettext:"
+msgstr ""
+
+#: ../../source/zanata.rst:185
+msgid "Configure languages:"
+msgstr ""
+
+#: ../../source/zanata.rst:189
+msgid "Add languages to project:"
+msgstr ""
+
+#: ../../source/zanata.rst:196
+msgid "More information for Zanata usage are available on"
+msgstr ""
+
+#: ../../source/zanata.rst:194
+msgid "`OpenStack Contributor Guide <https://docs.openstack.org/contributors/common/i18n.html>`__"
+msgstr ""
+
+#: ../../source/zanata.rst:196
+msgid "`Zanata Docs <http://docs.zanata.org/>`__ ."
+msgstr ""
+
+#: ../../source/zanata.rst:199
+msgid "Client"
+msgstr ""
+
+#: ../../source/zanata.rst:201
+msgid "Thank goodness Zanata client installation is much easier::"
+msgstr ""
+
+#: ../../source/zanata.rst:207
+msgid "That's it :-)"
+msgstr ""
+
