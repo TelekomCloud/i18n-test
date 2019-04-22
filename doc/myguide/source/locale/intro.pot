@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Docs as Code \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-22 04:15+0200\n"
+"POT-Creation-Date: 2019-04-22 04:24+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,7 +29,7 @@ msgid "Why Sphinx?"
 msgstr ""
 
 #: ../../source/intro.rst:10
-msgid "Sphinx is used to do document :ref:`Python <python:functions>`. Documentation strings from Python modules are fetched and Sphinx will generate documentation from that."
+msgid "Sphinx is got do document :ref:`Python <python:functions>`. Documentation strings from Python modules are fetched and Sphinx will generate documentation from that."
 msgstr ""
 
 #: ../../source/intro.rst:15
