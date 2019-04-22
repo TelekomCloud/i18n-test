@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Docs as Code \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-22 03:49+0200\n"
+"POT-Creation-Date: 2019-04-22 20:02+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,39 +16,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../source/index.rst:2
+#: ../index.rst:2
 msgid "Welcome to Docs as Code"
 msgstr ""
 
-#: ../../source/index.rst:4
+#: ../index.rst:4
 msgid "If you buy a car or a construction set for a wardrobe, the user manual or the building instruction will be shipped with the product. Also software, bought on a CD, has a handout or handbook. Your Open Source software should also has a manual. And should do it something better :-)"
 msgstr ""
 
-#: ../../source/index.rst:12
+#: ../index.rst:12
 msgid "Introduction"
 msgstr ""
 
-#: ../../source/index.rst:20
+#: ../index.rst:20
 msgid "Start"
 msgstr ""
 
-#: ../../source/index.rst:28
+#: ../index.rst:28
 msgid "Zanata"
 msgstr ""
 
-#: ../../source/index.rst:36
+#: ../index.rst:36
 msgid "Sphinx"
 msgstr ""
 
-#: ../../source/index.rst:44
+#: ../index.rst:44
 msgid "Readthedocs"
 msgstr ""
 
-#: ../../source/index.rst:52
+#: ../index.rst:52
 msgid "Indices and tables"
 msgstr ""
 
-#: ../../source/index.rst:54
+#: ../index.rst:54
 msgid ":ref:`search`"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Docs as Code \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-22 03:49+0200\n"
+"POT-Creation-Date: 2019-04-22 20:02+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,95 +16,95 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../source/sphinx.rst:5
+#: ../sphinx.rst:5
 msgid "Sphinx"
 msgstr ""
 
-#: ../../source/sphinx.rst:7
+#: ../sphinx.rst:7
 msgid "Sphinx, the Python Documentation Generator, provides `Internationalization <http://www.sphinx-doc.org/en/stable/intl.html>`__ . The workflow is described :ref:`there <sphinx:intl>`."
 msgstr ""
 
-#: ../../source/sphinx.rst:10
+#: ../sphinx.rst:10
 msgid "btw: documentation reference can be build with :ref:`intersphinx <sphinx:examples>` Check available options::"
 msgstr ""
 
-#: ../../source/sphinx.rst:16
+#: ../sphinx.rst:16
 msgid "Installation"
 msgstr ""
 
-#: ../../source/sphinx.rst:18
+#: ../sphinx.rst:18
 msgid "Install requirements::"
 msgstr ""
 
-#: ../../source/sphinx.rst:23
+#: ../sphinx.rst:23
 msgid "Init"
 msgstr ""
 
-#: ../../source/sphinx.rst:25
+#: ../sphinx.rst:25
 msgid "To initial a new documentation project use::"
 msgstr ""
 
-#: ../../source/sphinx.rst:30
+#: ../sphinx.rst:30
 msgid "Zanata Project File"
 msgstr ""
 
-#: ../../source/sphinx.rst:32
+#: ../sphinx.rst:32
 msgid "To interact to Zanata server with the client a project configuration file named zanata.xml is required::"
 msgstr ""
 
-#: ../../source/sphinx.rst:48
+#: ../sphinx.rst:48
 msgid "url must match with url name in zanata.ini"
 msgstr ""
 
-#: ../../source/sphinx.rst:51
+#: ../sphinx.rst:51
 msgid "Gettext"
 msgstr ""
 
-#: ../../source/sphinx.rst:53
+#: ../sphinx.rst:53
 msgid "Build gettext files for Zanata::"
 msgstr ""
 
-#: ../../source/sphinx.rst:58
+#: ../sphinx.rst:58
 msgid "Push to server"
 msgstr ""
 
-#: ../../source/sphinx.rst:60
+#: ../sphinx.rst:60
 msgid "Push pot files to Zanata::"
 msgstr ""
 
-#: ../../source/sphinx.rst:64
+#: ../sphinx.rst:64
 msgid "Normaly self-signed certificate will used in private environment like this. The option --disable-ssl-cert will force the client to connect."
 msgstr ""
 
-#: ../../source/sphinx.rst:67
+#: ../sphinx.rst:67
 msgid "Now the translation files are on the server and translatable in the configured languages. If this done you can download it again."
 msgstr ""
 
-#: ../../source/sphinx.rst:71
+#: ../sphinx.rst:71
 msgid "Pull from server"
 msgstr ""
 
-#: ../../source/sphinx.rst:73
+#: ../sphinx.rst:73
 msgid "Pull po files from Zanata::"
 msgstr ""
 
-#: ../../source/sphinx.rst:77
+#: ../sphinx.rst:77
 msgid "Use language option -l de for German files, without that all language files will be download."
 msgstr ""
 
-#: ../../source/sphinx.rst:80
+#: ../sphinx.rst:80
 msgid "Optional: If you modified the language files locally, you can push them to the server::"
 msgstr ""
 
-#: ../../source/sphinx.rst:86
+#: ../sphinx.rst:86
 msgid "Build and publish"
 msgstr ""
 
-#: ../../source/sphinx.rst:88
+#: ../sphinx.rst:88
 msgid "At the end, build and publish the docs::"
 msgstr ""
 
-#: ../../source/sphinx.rst:93
+#: ../sphinx.rst:93
 msgid "Or build and publish slides within hieroglyph module::"
 msgstr ""
 

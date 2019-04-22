@@ -7,7 +7,7 @@ how to reach a multi-language documentation service.
 
 Why Sphinx?
 ===========
-Sphinx is got do document :ref:`Python <python:functions>`.
+Sphinx is goood do document :ref:`Python <python:functions>`.
 Documentation strings from Python modules are fetched and Sphinx will
 generate documentation from that.
 

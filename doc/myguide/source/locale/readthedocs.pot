@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Docs as Code \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-22 03:49+0200\n"
+"POT-Creation-Date: 2019-04-22 20:02+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,39 +16,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../source/readthedocs.rst:5
+#: ../readthedocs.rst:5
 msgid "Readthedocs"
 msgstr ""
 
-#: ../../source/readthedocs.rst:8
+#: ../readthedocs.rst:8
 msgid "Introduction"
 msgstr ""
 
-#: ../../source/readthedocs.rst:10
+#: ../readthedocs.rst:10
 msgid "`Readthedocs <https://readthedocs.org/>`__ is an online service to host technical documentation, especially in Sphinx format. If your documentation code lives on `GitHub <https://github.com/eumel8/docs-i18n/tree/master/doc/myguide/source>`__ a `webhook <https://developer.github.com/webhooks/>`__ can configured to trigger Readthedocs to fetch and build Sphinx documentation."
 msgstr ""
 
-#: ../../source/readthedocs.rst:17
+#: ../readthedocs.rst:17
 msgid "Workflow"
 msgstr ""
 
-#: ../../source/readthedocs.rst:22
+#: ../readthedocs.rst:22
 msgid "Use cases"
 msgstr ""
 
-#: ../../source/readthedocs.rst:24
+#: ../readthedocs.rst:24
 msgid "Readthedocs provides different output formats like HTML, ePub, and PDF in different languages and different versions (branches)."
 msgstr ""
 
-#: ../../source/readthedocs.rst:27
+#: ../readthedocs.rst:27
 msgid "You can configure your own sub-domain like `http://docs-i18n.readthedocs.io/ <http://docs-i18n.readthedocs.io/>`__ or use your own name space and configure aliases or forwards."
 msgstr ""
 
-#: ../../source/readthedocs.rst:31
+#: ../readthedocs.rst:31
 msgid "Example"
 msgstr ""
 
-#: ../../source/readthedocs.rst:33
+#: ../readthedocs.rst:33
 msgid "`Ansible OTC <http://ansible-otc.readthedocs.io>`__"
 msgstr ""
 
