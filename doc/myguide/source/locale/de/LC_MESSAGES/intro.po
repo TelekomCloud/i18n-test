@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Zanata 4.3.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-#: ../intro.rst:3
-msgid "Intro"
-msgstr "Einleitung"
-
 #: ../intro.rst:5
 msgid ""
 "Here is a solution described as :ref:`Sphinx <sphinx:examples>` how to reach "
@@ -25,10 +21,6 @@ msgid ""
 msgstr ""
 "Hier ist eine Lösung beschrieben in :ref:`sphinx <sphinx:examples>` wie eine "
 "mehrsprachiger Dokumentationsdienst zu erreichen ist."
-
-#: ../intro.rst:9
-msgid "Why Sphinx?"
-msgstr "Warum Sphinx?"
 
 #: ../intro.rst:10
 msgid ""
@@ -39,10 +31,6 @@ msgstr ""
 "Sphinx wird zur Dokumentation von :ref:`Python <python:functions>` benutzt. "
 "Dokumentationstrings von Python-Modulen werden abgerufen und Sphinx baut "
 "daraus Dokumentation."
-
-#: ../intro.rst:15
-msgid "Output"
-msgstr "Ausgabe"
 
 #: ../intro.rst:16
 msgid ""
@@ -58,10 +46,6 @@ msgstr ""
 "Mit `hieroglyph <http://docs.hieroglyph.io>`__ kannst Du auch Folien "
 "generieren. Der Builder wird auch einen Syntaxcheck machen und Links in den "
 "Dokumenten überprüfen."
-
-#: ../intro.rst:24
-msgid "Input"
-msgstr "Eingabe"
 
 #: ../intro.rst:25
 msgid ""
@@ -119,18 +103,6 @@ msgstr ""
 "Aber Du kannst auch Dein eigenes Theme bauen. Oder  `Schau was es für Python "
 "Pakete für Sphinx Theme gibts <https://pypi.python.org/pypi?%3Aaction="
 "search&term=Sphinx+Theme&submit=search>`__"
-
-#: ../intro.rst:52
-msgid "Search Engine"
-msgstr "Suchmaschine"
-
-#: ../intro.rst:53
-msgid ":ref:`A search engine <sphinx:search>` is included."
-msgstr ":ref:`Eine Suchmaschine <sphinx:search>` ist mit dabei."
-
-#: ../intro.rst:56
-msgid "Not enough?"
-msgstr "Nicht genug?"
 
 #: ../intro.rst:57
 msgid "And mark a timestamp without and script language"
