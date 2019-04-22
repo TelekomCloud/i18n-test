@@ -2,12 +2,12 @@
 Intro
 =====
 
-Here is a solution described as :ref:`Sphinx <sphinx:examples>` how to
-reach a multi-language documentation service.
+Here is a mega solution described as :ref:`Sphinx <sphinx:examples>`
+how to reach a multi-language documentation service.
 
 Why Sphinx?
 ===========
-Sphinx is used to document :ref:`Python <python:functions>`.
+Sphinx is used to do document :ref:`Python <python:functions>`.
 Documentation strings from Python modules are fetched and Sphinx will
 generate documentation from that.
 
