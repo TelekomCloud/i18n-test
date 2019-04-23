@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Docs as Code\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-22 20:02+0200\n"
-"PO-Revision-Date: 2019-04-22 18:56+0000\n"
+"PO-Revision-Date: 2019-04-23 03:40+0000\n"
 "Last-Translator: Frank Kloeker <f.kloeker@telekom.de>\n"
 "Language-Team: German <http://weblate.eumel.de/weblate/projects/i18n-tes/"
 "i18n-7/de/>\n"
@@ -17,18 +17,14 @@ msgstr ""
 
 #: ../intro.rst:3
 msgid "Intro"
-msgstr ""
+msgstr "Intro"
 
 #: ../intro.rst:5
-#, fuzzy
-#| msgid ""
-#| "Here is a solution described as :ref:`Sphinx <sphinx:examples>` how to "
-#| "reach a multi-language documentation service."
 msgid ""
 "Here is a mega solution described as :ref:`Sphinx <sphinx:examples>` how to "
 "reach a multi-language documentation service."
 msgstr ""
-"Hier ist ist eine Lösung beschrieiden in :ref:`sphinx <sphinx:examples>` wie "
+"Hier ist ist eine Lösung beschrieben in :ref:`sphinx <sphinx:examples>` wie "
 "eine mehrsprachiger Dokumentationsdienst zu erreichen ist."
 
 #: ../intro.rst:9
